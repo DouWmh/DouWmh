@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DouWmh
 - 👀 I’m interested in coding fantasy games...
-- 🌱 I’m currently learning deep video game back and front end programming...
-- 💞️ I’m looking to collaborate on a school project..
+- 🌱 I’m currently working as a web developer
+- 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me doom20@hotmail.com...
 
 <!---
