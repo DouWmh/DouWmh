@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DouWmh
 - 👀 I’m interested in coding fantasy games...
-- 🌱 I’m currently working as a web developer
+- 🌱 I’m currently working as a full-stack developer
 - 💞️ I’m looking to collaborate on game jams
 - 📫 How to reach me doom20@hotmail.com...
 
